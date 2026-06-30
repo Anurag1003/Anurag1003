@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, I'm Anurag Wadkar</h1>
 
 <p align="center">
+Crafting modern, scalable web applications with clean and efficient code.
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Building+Ideas+Into+Reality" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 - 🔭 Currently working on **MERN Stack Projects**
 - 🌱 Currently learning **Modern Technologies and DSA**
 - 👯 Looking to collaborate on **Open Source Projects**
+- 🤝 Open to **Internships, Full Stack Development Roles, and Open Source Collaboration**
 - 💬 Ask me about **React, Node.js, Express.js, MongoDB, Java, C++**
 - ⚡ Fun fact: **I enjoy turning ideas into real-world applications.**
 
@@ -18,7 +23,7 @@
 
 # 🛠️ Tech Stack
 
-## Frontend
+<h3 align="center">Frontend</h3>
 
 <p align="center">
 
@@ -32,9 +37,7 @@
 
 </p>
 
----
-
-## Backend
+<h3 align="center">Backend</h3>
 
 <p align="center">
 
@@ -48,9 +51,8 @@
 
 </p>
 
----
 
-## Deployment
+<h3 align="center">Deployment</h3>
 
 <p align="center">
 
@@ -59,9 +61,8 @@
 
 </p>
 
----
 
-## Developer Tools
+<h3 align="center">Developer Tools</h3>
 
 <p align="center">
 
@@ -74,9 +75,8 @@
 
 </p>
 
----
 
-## Programming Languages
+<h3 align="center">Programming Languages</h3>
 
 <p align="center">
 
@@ -88,7 +88,7 @@
 
 ---
 
-# 💡 Developer Quote
+# 💭 Developer Quote
 
 > **"Think. Design. Develop. Deploy."**
 
@@ -97,7 +97,7 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  
+
   <a href="https://linkedin.com/in/anurag-wadkar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -110,4 +110,10 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
+</p>
+
+<br>
+
+<p align="center">
+💻 Happy Coding! — <a href="https://github.com/Anurag1003"><b>Anurag Wadkar</b></a>
 </p>
