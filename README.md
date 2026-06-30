@@ -87,18 +87,10 @@
 
 ---
 
-# 📊 GitHub Stats
+---
+
+# 💡 Developer Quote
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anurag1003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag1003&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Anurag1003&theme=tokyonight&hide_border=true"/>
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
