@@ -1,4 +1,4 @@
-<h1 align="center>Hi, I'm Anurag Wadkar 👋</h1>
+<h1 align="center"> Hi, I'm Anurag Wadkar 👋</h1>
 
 <p align="center">
 Passionate about crafting modern, scalable web applications with clean and efficient code.
