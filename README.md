@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anurag Wadkar</h1>
+<h1 align="center>Hi, I'm Anurag Wadkar 👋</h1>
 
 <p align="center">
-Crafting modern, scalable web applications with clean and efficient code.
+Passionate about crafting modern, scalable web applications with clean and efficient code.
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ Crafting modern, scalable web applications with clean and efficient code.
 # 👨‍💻 About Me
 
 - 🔭 Currently working on **MERN Stack Projects**
-- 🌱 Currently learning **Modern Technologies and DSA**
+- 🌱 Exploring **Modern Web Technologies** while strengthening my **Data Structures & Algorithms (DSA)** skills
 - 👯 Looking to collaborate on **Open Source Projects**
 - 🤝 Open to **Internships, Full Stack Development Roles, and Open Source Collaboration**
 - 💬 Ask me about **React, Node.js, Express.js, MongoDB, Java, C++**
@@ -98,7 +98,7 @@ Crafting modern, scalable web applications with clean and efficient code.
 
 <p align="center">
 
-  <a href="https://linkedin.com/in/anurag-wadkar" target="_blank">
+  <a href="https://linkedin.com/in/anurag-wadkar" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -106,7 +106,7 @@ Crafting modern, scalable web applications with clean and efficient code.
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://anuragwadkar.vercel.app" target="_blank">
+  <a href="https://anuragwadkar.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
@@ -115,5 +115,5 @@ Crafting modern, scalable web applications with clean and efficient code.
 <br>
 
 <p align="center">
-💻 Happy Coding! — <a href="https://github.com/Anurag1003"><b>Anurag Wadkar</b></a>
+<b>💻 Happy Coding!</b> — <a href="https://github.com/Anurag1003"><b>Anurag Wadkar</b></a>
 </p>
